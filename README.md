@@ -1,5 +1,14 @@
 ### Hey there 👋
 
+### Hey there! 👋
+
+My name is Eason and I'm a full stack developer and smart contract creator on Ethereum! [![Ethereum](https://raw.githubusercontent.com/easonchai/easonchai/main/src/ethereum.png)](https://ethereum.org/en/) <br />
+I'm currently working on Decentramall, a decentralized shopping mall built on both IPFS & Ethereum. It uses a unique ERC721 minting process and is based on a Sigmoid bonding curve, which I wrote about [here](https://medium.com/@easonchaijw/an-actual-sigmoid-function-in-solidity-6b78d002d8be)!
+
+<a href="https://www.buymeacoffee.com/easonchai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108px !important;" ></a>
+
+[![Eason's GitHub stats](https://github-readme-stats.vercel.app/api?username=easonchai&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **easonchai/easonchai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
