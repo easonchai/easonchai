@@ -19,10 +19,12 @@ Recently did two workshops, one for Hacktoberfest 2020 and another for Python un
 
 [![Eason's GitHub stats](https://github-readme-stats.vercel.app/api?username=easonchai&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- 
 ### 🤭 Self Plugs
 I write on [![Medium](https://raw.githubusercontent.com/easonchai/easonchai/main/src/medium.png)](http://bit.ly/medium-easonchaijw) Medium sometimes, so do check it out and follow me there! 
 <a id="orange_code" href="http://bit.ly/celsius-Ru6b" target="_blank"><img alt="dark logo" align="right" src="https://23m75o3e07wtfdo7h17w4u61-wpengine.netdna-ssl.com/wp-content/themes/celsius-theme/images/buttons/orange.svg" width="256px" height="auto"></a>
 I'm also an ambassador for [Celsius Network](https://celsius.network/)! It's a cryptocurrency savings platform, offering **15% APY** yields. Also, it's **free** to use! If you're wondering how, it's simple. They pay 80% of their profits to us, the users! Feel free to use my link to start earning! <br /><br />
+-->
 
 <div display="flex">
   <h2>🎉 Like what I do or want to support me? 🎉</h2>
