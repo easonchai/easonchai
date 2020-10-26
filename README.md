@@ -12,7 +12,23 @@ I'm currently working on 🛍️ **Decentramall**, a decentralized shopping mall
 [![Twitter Badge](https://img.shields.io/badge/-@easonchaiii-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=http://bit.ly/twitter-easonchaiii)](http://bit.ly/twitter-easonchaiii) [![Instagram Badge](https://img.shields.io/badge/-@eason_chai-4D58CE?style=flat-square&labelColor=4D58CE&logo=instagram&logoColor=white&link=http://bit.ly/insta-easonchai)](http://bit.ly/insta-easonchai) [![Linkedin Badge](https://img.shields.io/badge/-easonchai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/li-easonchai)](https://bit.ly/li-easonchai) [![Medium Badge](https://img.shields.io/badge/-@easonchaijw-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=http://bit.ly/medium-easonchaijw)](http://bit.ly/medium-easonchaijw)
 [![Gmail Badge](https://img.shields.io/badge/-echai2905@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:echai2905@gmail.com)](mailto:echai2905@gmail.com)
 
----
+<!-- <div display="flex" align="center" width="100%">
+    <a href="http://bit.ly/twitter-easonchaiii">
+        <img src="src/twitter.svg" align="center">
+    </a>
+    <a href="http://bit.ly/insta-easonchai">
+        <img src="src/insta.svg" align="center">
+    </a>
+    <a href="https://bit.ly/li-easonchai">
+        <img src="src/linkedin.svg" align="center">
+    </a>
+    <a href="http://bit.ly/medium-easonchaijw">
+        <img src="src/medium.svg" align="center">
+    </a>
+    <a href="mailto:echai2905@gmail.com">
+        <img src="src/gmail.svg" align="center">
+    </a>
+</div> -->
 
 ## 💻 Tools & Technologies
 
