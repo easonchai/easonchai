@@ -21,6 +21,8 @@ I'm currently working on 🛍️ **Decentramall**, a decentralized shopping mall
 Lately, I work primarily with React & Solidity, while learning new tools and tricks such as React Native, and ☁️ Google Cloud! I'm also looking to learn more about ML and AI as well, so do reach out to me about it! 😉 Blockchain, DeFi & Ethereum are kinda my thing, so hit me up about those too! 💬
 </p>
 
+<br />
+
 ## 🧑🏿‍🤝‍🧑🏽 Community Work
 
 <img src="src/hl2.svg" align="left" height="100px" style="margin:0px 20px">
@@ -28,6 +30,13 @@ Lately, I work primarily with React & Solidity, while learning new tools and tri
 </p>
 
 <br />
+
+## 🤭 Self Plugs
+
+I write on **Medium** sometimes, so do [check it out](http://bit.ly/medium-easonchaijw) and follow me there!
+<br />
+<a id="orange_code" href="http://bit.ly/celsius-Ru6b" target="_blank"><img alt="dark logo" align="right" src="https://23m75o3e07wtfdo7h17w4u61-wpengine.netdna-ssl.com/wp-content/themes/celsius-theme/images/buttons/orange.svg" width="256px" height="auto"></a>
+I'm also an ambassador for [Celsius Network](https://celsius.network/)! It's a cryptocurrency savings platform and it's **free** to use! They pay 80% of their profits to us, the users, hence the high APY! Feel free to use my link to get $20 when you deposit $200! <br /><br />
 
 ## ⚡ Stats
 
@@ -38,14 +47,11 @@ Lately, I work primarily with React & Solidity, while learning new tools and tri
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=easonchai&hide=html" />
 </a>
 
-<!--
-## 🤭 Self Plugs
-I write on [![Medium](https://raw.githubusercontent.com/easonchai/easonchai/main/src/medium.png)](http://bit.ly/medium-easonchaijw) Medium sometimes, so do check it out and follow me there!
-<a id="orange_code" href="http://bit.ly/celsius-Ru6b" target="_blank"><img alt="dark logo" align="right" src="https://23m75o3e07wtfdo7h17w4u61-wpengine.netdna-ssl.com/wp-content/themes/celsius-theme/images/buttons/orange.svg" width="256px" height="auto"></a>
-I'm also an ambassador for [Celsius Network](https://celsius.network/)! It's a cryptocurrency savings platform, offering **15% APY** yields. Also, it's **free** to use! If you're wondering how, it's simple. They pay 80% of their profits to us, the users! Feel free to use my link to start earning! <br /><br />
--->
-
 <div display="flex">
   <h2>🎉 Like what I do or want to support me? 🎉</h2>
   <a href="http://bit.ly/bmac-eason" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="45px" width="162px" ></a>
 </div>
+
+<!--
+Assets from icons8: https://icons8.com/icon/pack/logos/dusk
+ -->
