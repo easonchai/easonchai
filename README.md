@@ -35,6 +35,9 @@ I'm currently working on 🛍️ **Decentramall**, a decentralized shopping mall
 <img src="src/hl1.svg" align="right" height="100px" style="margin:0px 20px">
 <p>
 Lately, I work primarily with React & Solidity, while learning new tools and tricks such as React Native, and ☁️ Google Cloud! I'm also looking to learn more about ML and AI as well, so do reach out to me about it! 😉 Blockchain, DeFi & Ethereum are kinda my thing, so hit me up about those too! 💬
+
+Other than that, I also use Python, Java and more for mini side projects!
+
 </p>
 
 <br />
@@ -47,10 +50,15 @@ Lately, I work primarily with React & Solidity, while learning new tools and tri
 
 <br />
 
+## 🍻 Fun Facts!
+
+- I write on **Medium** sometimes, so do [check it out](http://bit.ly/medium-easonchaijw) and follow me there!
+- Currently creating content for a beginner to pro Svelte progression path
+- Built an on-the-go RFID badge cloner for Red Team Hacking using Arduino
+- Previously worked as a graphic designer & copywriter!
+
 <!-- ## 🤭 Self Plugs
 
-I write on **Medium** sometimes, so do [check it out](http://bit.ly/medium-easonchaijw) and follow me there!
-<br />
 <a id="orange_code" href="https://celsiusnetwork.app.link/133551b2f6" target="_blank"><img alt="dark logo" align="right" src="https://23m75o3e07wtfdo7h17w4u61-wpengine.netdna-ssl.com/wp-content/themes/celsius-theme/images/buttons/orange.svg" width="200px" height="auto"></a>
 
 I'm also an ambassador for [Celsius Network](https://celsius.network/)! It's a cryptocurrency savings platform and it's **free** to use! They pay 80% of their profits to us, the users, hence the high APY! Feel free to use my link, or enter the code 133551b2f6 to get $20 when you deposit $200 on your first transfer!
