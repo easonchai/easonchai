@@ -47,15 +47,15 @@ Lately, I work primarily with React & Solidity, while learning new tools and tri
 
 <br />
 
-## 🤭 Self Plugs
+<!-- ## 🤭 Self Plugs
 
 I write on **Medium** sometimes, so do [check it out](http://bit.ly/medium-easonchaijw) and follow me there!
 <br />
-<a id="orange_code" href="http://bit.ly/celsius-Ru6b" target="_blank"><img alt="dark logo" align="right" src="https://23m75o3e07wtfdo7h17w4u61-wpengine.netdna-ssl.com/wp-content/themes/celsius-theme/images/buttons/orange.svg" width="200px" height="auto"></a>
+<a id="orange_code" href="https://celsiusnetwork.app.link/133551b2f6" target="_blank"><img alt="dark logo" align="right" src="https://23m75o3e07wtfdo7h17w4u61-wpengine.netdna-ssl.com/wp-content/themes/celsius-theme/images/buttons/orange.svg" width="200px" height="auto"></a>
 
-I'm also an ambassador for [Celsius Network](https://celsius.network/)! It's a cryptocurrency savings platform and it's **free** to use! They pay 80% of their profits to us, the users, hence the high APY! Feel free to use my link to get $20 when you deposit $200!
+I'm also an ambassador for [Celsius Network](https://celsius.network/)! It's a cryptocurrency savings platform and it's **free** to use! They pay 80% of their profits to us, the users, hence the high APY! Feel free to use my link, or enter the code 133551b2f6 to get $20 when you deposit $200 on your first transfer!
 
-<br />
+<br /> -->
 
 ## ⚡ Stats
 
