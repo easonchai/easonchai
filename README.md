@@ -45,7 +45,8 @@ Other than that, I also use Python, Java and more for mini side projects!
 ## 🧑🏿‍🤝‍🧑🏽 Community Work
 
 <img src="src/hl2.svg" align="left" height="100px" style="margin:0px 20px">
-<p>Recently did two workshops, one for Hacktoberfest 2020 and another for Python under Sunway Tech Club. It was a super fun experience, being able to teach the public more about OSS as well as creating useful projects with Python. I'm definitely looking forward to hosting more events and sharing knowledge with everyone 😄.
+<p>
+Recently did two workshops, one for Hacktoberfest 2020 and another for Python under Sunway Tech Club. It was a super fun experience, being able to teach the public more about OSS as well as creating useful projects with Python. I'm definitely looking forward to hosting more events and sharing knowledge with everyone 😄.
 </p>
 
 <br />
