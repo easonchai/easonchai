@@ -10,31 +10,13 @@ I'm currently working on 🛍️ **Decentramall**, a decentralized shopping mall
 ## 📱 Connect With Me!
 
 [![Twitter Badge](https://img.shields.io/badge/-@easonchaiii-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=http://bit.ly/twitter-easonchaiii)](http://bit.ly/twitter-easonchaiii) [![Instagram Badge](https://img.shields.io/badge/-@eason_chai-4D58CE?style=flat-square&labelColor=4D58CE&logo=instagram&logoColor=white&link=http://bit.ly/insta-easonchai)](http://bit.ly/insta-easonchai) [![Linkedin Badge](https://img.shields.io/badge/-easonchai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/li-easonchai)](https://bit.ly/li-easonchai) [![Medium Badge](https://img.shields.io/badge/-@easonchaijw-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=http://bit.ly/medium-easonchaijw)](http://bit.ly/medium-easonchaijw)
-[![Gmail Badge](https://img.shields.io/badge/-echai2905@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:echai2905@gmail.com)](mailto:echai2905@gmail.com)
-
-<!-- <div display="flex" align="center" width="100%">
-    <a href="http://bit.ly/twitter-easonchaiii">
-        <img src="src/twitter.svg" align="center">
-    </a>
-    <a href="http://bit.ly/insta-easonchai">
-        <img src="src/insta.svg" align="center">
-    </a>
-    <a href="https://bit.ly/li-easonchai">
-        <img src="src/linkedin.svg" align="center">
-    </a>
-    <a href="http://bit.ly/medium-easonchaijw">
-        <img src="src/medium.svg" align="center">
-    </a>
-    <a href="mailto:echai2905@gmail.com">
-        <img src="src/gmail.svg" align="center">
-    </a>
-</div> -->
+[![Gmail Badge](https://img.shields.io/badge/-echai2905@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:echai2905@gmail.com)](mailto:echai2905@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-Coding_Construct-ff0000?style=flat-square&logo=Youtube&logoColor=white&link=http://bit.ly/yt-coding-construct)](http://bit.ly/yt-coding-construct)
 
 ## 💻 Tools & Technologies
 
 <img src="src/hl1.svg" align="right" height="100px" style="margin:0px 20px">
 <p>
-Lately, I work primarily with React & Solidity, while learning new tools and tricks such as React Native, and ☁️ Google Cloud! I'm also looking to learn more about ML and AI as well, so do reach out to me about it! 😉 Blockchain, DeFi & Ethereum are kinda my thing, so hit me up about those too! 💬
+Lately, I work primarily with VueJS & Nest. I am originally a MERN developer with experience in React Native and ☁️ Google Cloud! I'm planning to focus more time this year on Smart Contract development, so feel free to reach out to me about these! 💬 Blockchain, DeFi & Ethereum are my interests! 😉
 
 Other than that, I also use Python, Java and more for mini side projects!
 
@@ -46,15 +28,15 @@ Other than that, I also use Python, Java and more for mini side projects!
 
 <img src="src/hl2.svg" align="left" height="100px" style="margin:0px 20px">
 <p>
-Recently did two workshops, one for Hacktoberfest 2020 and another for Python under Sunway Tech Club. It was a super fun experience, being able to teach the public more about OSS as well as creating useful projects with Python. I'm definitely looking forward to hosting more events and sharing knowledge with everyone 😄.
+Recently did a talk on Blockchain Basics to help everyone understand how blockchain technology works. Prior to that, I held two workshops. One for Hacktoberfest 2020 and another for Python under Sunway Tech Club. I'm definitely looking forward to hosting more events and sharing knowledge with everyone 😄.
 </p>
 
 <br />
 
 ## 🍻 Fun Facts!
 
-- I write on **Medium** sometimes, so do [check it out](http://bit.ly/medium-easonchaijw) and follow me there!
-- Currently creating content for a beginner to pro Svelte progression path
+- I write on **Medium**, so do [check it out](http://bit.ly/medium-easonchaijw) and follow me there!
+- Currently creating content for beginners on YouTube to get started in programming! ✌️
 - Built an on-the-go RFID badge cloner for Red Team Hacking using Arduino
 - Previously worked as a graphic designer & copywriter!
 
