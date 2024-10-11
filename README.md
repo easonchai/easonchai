@@ -22,6 +22,7 @@ I'm currently working on <img src="src/elvtd.svg" height="16px"/> [**ELVTD.io**]
 - Vue
 - Docker
 - Hardhat
+- Foundry
 
 ### 🧪 Languages
 
@@ -58,9 +59,9 @@ I also work for a school known as [42KL](https://42kl.edu.my/), which is by [42P
 
 - I write on **Medium**, so do [check it out](http://bit.ly/medium-easonchaijw) and follow me there!
 - Built a bonding curve ERC721 in Solidity which was talked about [here](https://medium.com/@easonchaijw/an-actual-sigmoid-function-in-solidity-6b78d002d8be)
-- 42KL Core Team ✌️
+- ex-42KL Core Team ✌️
 - Built Malaysia's First NFT Vending Machines
-- Part of [KopiDAO](https://www.kopidao.com/) ☕️
+- Part of ETHKL24 organizing team
 - Previously worked as a graphic designer & copywriter!
 
 ## ⚡ Stats
