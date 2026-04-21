@@ -55,12 +55,10 @@ Hackathons keep pulling me back. Sometimes building on the floor, sometimes on t
 
 ## 🤝 Work with me
 
-|                                   |                                                                                     |
-| --------------------------------- | ----------------------------------------------------------------------------------- |
-| **Consulting & engineering**      | [elvtd.io](https://elvtd.io)                                                        |
-| **Speaking, panels, podcasts**    | [echai2905@gmail.com](mailto:echai2905@gmail.com)                                   |
-| **Hackathon mentoring & judging** | DM on [X](https://x.com/easonchaiii)                                                |
-| **Everything else**               | [X](https://x.com/easonchaiii) · [LinkedIn](https://www.linkedin.com/in/easonchai/) |
+- **Consulting & engineering** — [elvtd.io](https://elvtd.io)
+- **Speaking, panels, podcasts** — [echai2905@gmail.com](mailto:echai2905@gmail.com)
+- **Hackathon mentoring & judging** — DM on [X](https://x.com/easonchaiii)
+- **Everything else** — [X](https://x.com/easonchaiii) · [LinkedIn](https://www.linkedin.com/in/easonchai/)
 
 ## 📊 Activity
 
