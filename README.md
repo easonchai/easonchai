@@ -65,7 +65,7 @@ Hackathons keep pulling me back. Sometimes building on the floor, sometimes on t
 ## 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=easonchai&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&title_color=AC68E3&icon_color=7A5BDC&text_color=c9d1d9&bg_color=0D1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=easonchai&count_private=true&show_icons=true&hide_border=true&title_color=AC68E3&icon_color=7A5BDC&text_color=c9d1d9&bg_color=0D1117" height="165" />
   <img src="https://streak-stats.demolab.com?user=easonchai&hide_border=true&background=0D1117&stroke=0D1117&ring=AC68E3&fire=E883D3&currStreakNum=F5F5F5&sideNums=c9d1d9&currStreakLabel=AC68E3&sideLabels=c9d1d9&dates=9A9A9A" height="165" />
 </p>
 
