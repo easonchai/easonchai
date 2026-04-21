@@ -74,7 +74,7 @@ Hackathons keep pulling me back. Sometimes building on the floor, sometimes on t
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=easonchai&row=1&column=7&no-frame=true&margin-w=8&theme=matrix" />
+  <img src="https://ghchart.rshah.org/AC68E3/easonchai" alt="Contribution chart" width="98%" />
 </p>
 
 ---
