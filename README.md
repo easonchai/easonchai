@@ -50,6 +50,7 @@ Hackathons keep pulling me back. Sometimes building on the floor, sometimes on t
 - Built Malaysia's **first NFT Vending Machine**
 - Wrote a production [**sigmoid bonding curve ERC721**](https://medium.com/@easonchaijw/an-actual-sigmoid-function-in-solidity-6b78d002d8be) in Solidity
 - Previously led tech ops at [42KL](https://42kl.edu.my) — automation, tooling, and campus infrastructure
+- Organized ETHKL 2024
 - Active in the Malaysia and global Web3 communities — mentoring, hosting, and showing up
 
 ## 🤝 Work with me
